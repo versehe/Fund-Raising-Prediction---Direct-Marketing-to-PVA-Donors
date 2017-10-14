@@ -13,7 +13,7 @@ Data file path: http://www.kdd.org/kdd-cup/view/kdd-cup-1998/Data
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Find code file:` PVA .ipynb
 
 
-Data Preparation:   
+## Data Preparation:   
 1.1 load dataset     
 1.2 target distribution     
        # only 5.07% donors respond     
@@ -27,7 +27,7 @@ Data Preparation:
        # df_train 70%      
        # df_val   30%     
        
-Model:    
+## Model:    
 2.1 Logistic Regression          
        # Train data Pseudo R-squ.:  0.5476     
        # Test  data Pseudo R-squ.:  0.5427     
@@ -45,12 +45,10 @@ Model:
        ![alt text](https://github.com/versehe/Fund-Raising-Prediction---Direct-Marketing-to-PVA-Donors/blob/master/Capture.PNG?raw=true)    
         
        
-             
-        
-        
+                
 
        
-Results:    
+## Results:    
 RFA Status: RFA_2 , RFA_2R, RFA_2F
 ![alt text](https://github.com/versehe/Fund-Raising-Prediction---Direct-Marketing-to-PVA-Donors/blob/master/Capture_RFA.PNG?raw=true)
 Donors Neighborhood: POP903, POP901
